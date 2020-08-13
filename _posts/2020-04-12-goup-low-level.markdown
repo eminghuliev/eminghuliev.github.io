@@ -9,4 +9,7 @@ I started to write blog after observing the lack of Azerbaijani contents about l
 
 See main repo [here][goup-link].
 
+See compiler researching page [here][compiler-link]
+
 [goup-link]: https://github.com/goupaz/lowlevel
+[compiler-link]: https://github.com/goupaz/lowlevel/blob/master/compiler.md
