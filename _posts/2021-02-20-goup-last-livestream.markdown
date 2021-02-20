@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lasti live stream about microarchitectural/compiler stuff."
-date:   2020-04-12 10:59:06 +0400
+date:   2021-02-20 16:33:10 +0400
 categories: low-level
 ---
 We did livestream in the last month of 2020.
