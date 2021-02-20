@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lasti live stream about microarchitectural/compiler stuff."
+title:  "Last live stream about microarchitectural/compiler stuff."
 date:   2021-02-20 16:33:10 +0400
 categories: low-level
 ---
